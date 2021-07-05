@@ -1,4 +1,7 @@
 # Welcome to my super cool website!
+
+[Page 2](page2.html)
+
 ## Section 1 about meerkats.
 A meerkat likes chilling in the *sun* and they are very **cute**.
 Items a meerkat likes:
